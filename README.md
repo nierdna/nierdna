@@ -15,7 +15,7 @@
   `TypeScript` • `Node.js` • `Solidity` • `PostgreSQL` • `Telegram Bots` • `LLMs`  
 - 🧪 Exploring:  
   `ZK Proofs`, `Smart Contract Audits`, `AI x Blockchain`  
-- 📫 Contact: `nierdna@pm.me` | [X / Twitter](https://twitter.com/yourhandle) | [LinkedIn](https://linkedin.com/in/your-name)
+- 📫 Contact: `andreinnguyen@gmail.com` | [X / Twitter](https://twitter.com/Loganzzxxx) | [LinkedIn](https://linkedin.com/in/0xandrein)
 
 ---
 
