@@ -74,6 +74,6 @@
 ---
 
 ## 🌐 Let's Connect
-[![Twitter](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/0xandrein)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Loganzzxxx)
+[![Twitter](https://img.shields.io/badge/-@Loganzzxxx-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Loganzzxxx)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xandrein)
 [![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail&logoColor=red)](mailto:andreinnguyen@gmail.com)
