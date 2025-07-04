@@ -15,7 +15,7 @@
   `TypeScript` • `Node.js` • `Solidity` • `PostgreSQL` • `Telegram Bots` • `LLMs`  
 - 🧪 Exploring:  
   `ZK Proofs`, `Smart Contract Audits`, `AI x Blockchain`  
-- 📫 Contact: `andreinnguyen@gmail.com` | [X / Twitter](https://twitter.com/Loganzzxxx) | [LinkedIn](https://linkedin.com/in/0xandrein)
+- 📫 Contact: `andreinnguyen@gmail.com` | [X / Twitter](https://twitter.com/smart_speed_ox) | [LinkedIn](https://linkedin.com/in/0xandrein)
 
 ---
 
@@ -74,6 +74,6 @@
 ---
 
 ## 🌐 Let's Connect
-[![Twitter](https://img.shields.io/badge/-@Loganzzxxx-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Loganzzxxx)
+[![Twitter](https://img.shields.io/badge/-@smart_speed_ox-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/smart_speed_ox)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xandrein)
 [![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail&logoColor=red)](mailto:andreinnguyen@gmail.com)
